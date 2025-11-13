@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mike\\Documents\\GitHub\\Books\\books.csproj": {}
+    "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\books.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mike\\Documents\\GitHub\\Books\\books.csproj": {
+    "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\books.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\books.csproj",
+        "projectUniqueName": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\books.csproj",
         "projectName": "books",
-        "projectPath": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\books.csproj",
-        "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\obj\\",
+        "projectPath": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\books.csproj",
+        "packagesPath": "C:\\Users\\dagof\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dagof\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
