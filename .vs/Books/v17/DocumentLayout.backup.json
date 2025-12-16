@@ -1,25 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\",
+  "WorkspaceRootPath": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\dagof\\onedrive\\documents\\github\\books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\mike\\documents\\github\\books\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\mike\\documents\\github\\books\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\mike\\documents\\github\\books\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\mike\\documents\\github\\books\\models\\autorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:models\\autorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\mike\\documents\\github\\books\\views\\autores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\autores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\mike\\documents\\github\\books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\dagof\\onedrive\\documents\\github\\books\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\mike\\documents\\github\\books\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\dagof\\onedrive\\documents\\github\\books\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\mike\\documents\\github\\books\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\dagof\\onedrive\\documents\\github\\books\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\mike\\documents\\github\\books\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\dagof\\onedrive\\documents\\github\\books\\views\\books\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\mike\\documents\\github\\books\\views\\books\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\books\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,45 +50,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T04:19:15.987Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T04:15:19.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Views\\Autores\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autores\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Views\\Autores\\Index.cshtml",
+              "RelativeToolTip": "Views\\Autores\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T03:33:39.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Models\\AutorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AutorViewModel.cs",
+              "ToolTip": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Models\\AutorViewModel.cs",
+              "RelativeToolTip": "Models\\AutorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:29:41.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "Controllers\\AutoresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:24:25.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\Views\\Books\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Views\\Books\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
-              "ToolTip": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Views\\Books\\Create.cshtml",
               "RelativeToolTip": "Views\\Books\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-11T19:58:57.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Detalle.cshtml",
-              "DocumentMoniker": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\Views\\Books\\Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Views\\Books\\Detalle.cshtml",
               "RelativeDocumentMoniker": "Views\\Books\\Detalle.cshtml",
-              "ToolTip": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\Views\\Books\\Detalle.cshtml",
+              "ToolTip": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Views\\Books\\Detalle.cshtml",
               "RelativeToolTip": "Views\\Books\\Detalle.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T15:42:40.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T15:42:40.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,26 +161,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAFYAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T17:32:26.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\Views\\Books\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Views\\Books\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dagof\\OneDrive\\Documents\\GitHub\\Books\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mike\\Documents\\GitHub\\Books\\Views\\Books\\Index.cshtml",
               "RelativeToolTip": "Views\\Books\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-04T17:10:41.466Z",
               "EditorCaption": ""

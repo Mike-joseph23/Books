@@ -13,6 +13,7 @@ namespace books.Controllers
             bookslist.Add(mybook);
             bookslist.Add(new Book(10, "Tebas las Cien Puerta", "Desconocido", 2000));
             bookslist.Add(new Book(11, "Nunca pares", "Phil knight", 2010));
+            bookslist.Add(new Book(12, "El libro de la vida", "Mike Joseph", 2002));
         }
         public List<Book> getbooklist()
         {

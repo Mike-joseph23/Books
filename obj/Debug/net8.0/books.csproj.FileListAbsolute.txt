@@ -99,3 +99,37 @@ D:\Programación Orientada a Objeto\Books\obj\Debug\net8.0\refint\books.dll
 D:\Programación Orientada a Objeto\Books\obj\Debug\net8.0\books.pdb
 D:\Programación Orientada a Objeto\Books\obj\Debug\net8.0\books.genruntimeconfig.cache
 D:\Programación Orientada a Objeto\Books\obj\Debug\net8.0\ref\books.dll
+C:\Users\Mike\Documents\GitHub\Books\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mike\Documents\GitHub\Books\bin\Debug\net8.0\appsettings.json
+C:\Users\Mike\Documents\GitHub\Books\bin\Debug\net8.0\books.staticwebassets.endpoints.json
+C:\Users\Mike\Documents\GitHub\Books\bin\Debug\net8.0\books.staticwebassets.runtime.json
+C:\Users\Mike\Documents\GitHub\Books\bin\Debug\net8.0\books.exe
+C:\Users\Mike\Documents\GitHub\Books\bin\Debug\net8.0\books.deps.json
+C:\Users\Mike\Documents\GitHub\Books\bin\Debug\net8.0\books.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\Books\bin\Debug\net8.0\books.dll
+C:\Users\Mike\Documents\GitHub\Books\bin\Debug\net8.0\books.pdb
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\books.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\books.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\books.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\books.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\books.RazorAssemblyInfo.cache
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\books.RazorAssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\books.sourcelink.json
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\scopedcss\bundle\books.styles.css
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\scopedcss\projectbundle\books.bundle.scp.css
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\books.dll
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\refint\books.dll
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\books.pdb
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\books.genruntimeconfig.cache
+C:\Users\Mike\Documents\GitHub\Books\obj\Debug\net8.0\ref\books.dll
